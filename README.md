@@ -15,8 +15,11 @@ I completed the project in the Project Workspace provided by Udacity. To set up 
 2. The environment is similar to the Banana Collector environment on the Unity ML-Agents GitHub page, but you don't need to download/install Unity because the environment can be downloaded from the links below. However, you need to select the link that matches your operating system.
 
 [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip).
+
 [Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip).
+
 [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip).
+
 [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip).
 
 3. Place the environment file in the `p1_navigation/` directory in the DRLND GitHub repository.
