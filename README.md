@@ -43,3 +43,7 @@ scores, scores_window_mean = dqn(n_episodes=2000, max_t=300, eps_start=0.10, eps
 ```
 
 6. In the `dqn_agent_variant.py` file, there are some additional hyperparameters. `LR` and `GAMMA` are the most important two. `LR` represents the neural network's learning rate and `GAMMA` represents the discount factor in the formula used to update a state-action pair's Q value.
+
+# Acknowledgement
+
+I consulted this GitHub repository ([link](https://github.com/silviomori/udacity-deep-reinforcement-learning-p1-navigation/blob/master/Navigation.ipynb)) when I tuned the hyperparameters.
