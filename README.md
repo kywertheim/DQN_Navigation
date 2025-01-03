@@ -8,7 +8,7 @@ The code trains the agent to select the best action in each state with the objec
 
 # Getting Started
 
-I completed the project in the Project Workspace provided by Udacity. To set up the environment on your own machine, you need to follow the instructions [here]([https://pages.github.com/](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation#getting-started)). They are reproduced here.
+I completed the project in the Project Workspace provided by Udacity. To set up the environment on your own machine, you need to follow the instructions [here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation#getting-started). They are reproduced here.
 
 1. Clone the Course GitHub repository and set up your Python environment. PyTorch, the ML-Agents toolkit, and a few more Python packages are required to complete the project. These steps can be completed by following the instructions [here](https://github.com/udacity/Value-based-methods#dependencies).
 
